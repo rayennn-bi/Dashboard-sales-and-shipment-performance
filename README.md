@@ -1,5 +1,4 @@
-![dashboard](image/Screenshot 2026-01-24 184250.png)
-
+![Dashboard](image/Dashboard_Page Sales perfromance.png)
 
 # Dashboard-sales-performance
 Mini Project Sales Performance
@@ -18,5 +17,4 @@ SQL server (postgresql) digital skola :
 
 ## Tools 
 - sql
-- python
 - power BI
