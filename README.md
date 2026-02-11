@@ -1,4 +1,4 @@
-
+![Dashboard](Dashboard/Dashboard_Page_Sales_perfromance.png)
 # Dashboard Sales & Shipment performance
 Mini Project Dashboard Sales Performance
 
